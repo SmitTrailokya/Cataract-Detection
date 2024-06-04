@@ -9,7 +9,6 @@ This project aims to predict the risk of cataracts using various machine learnin
 - [Model Architecture](#model-architecture)
 - [Data Preprocessing and Visualization](#data-preprocessing-and-visualization)
 - [Results](#results)
-- [License](#license)
 
 ## Installation
 
